@@ -1,4 +1,4 @@
-# Cuda custom allocator example
+# Example of custom CUDA allocator for pytorch
 
 ## Run
 
